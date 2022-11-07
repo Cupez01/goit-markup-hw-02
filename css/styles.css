@@ -1,0 +1,145 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+li{
+    list-style: none;
+} 
+.header-nav ul{
+    display: flex;
+}
+.web{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 26px;
+    margin-left: 215px;
+    color: #2196F3; 
+}
+.studio{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 14px;
+    margin-left: 93px;
+    color: #212121;
+}
+.studio:hover{
+color: #2196F3;
+}
+.contacts:hover{
+    color: #2196F3;
+}
+.portafolio{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 14px;
+    margin-left: 50px;
+    color: #2196F3; 
+}
+.contacts{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 14px;
+    margin-left: 50px;
+    color: #212121;; 
+}
+.reference{
+    text-decoration: none;
+    color: #757575;
+    font-size: 14px;
+}
+.reference:hover{
+    color: #2196F3;
+}
+.ref-contact:hover{
+    color: #2196F3;
+
+}
+.buttons ul{
+    display: flex;
+}
+.todo, .site, .app, .design, .mark{
+cursor: pointer;
+font-weight: 500;
+border-color: #F5F4FA;
+}
+.todo:hover{
+background-color: #2196F3;
+color: white;  
+}
+.site:hover{
+background-color: #2196F3;
+color: white;
+}
+.app:hover{
+background-color: #2196F3;
+color: white;  
+}
+.design:hover{
+background-color: #2196F3;
+color: white;
+}
+.mark:hover{
+background-color: #2196F3;
+color: white;
+}
+.tittle{
+font-weight: 700;
+font-size: 18px;
+color: #212121;
+}
+.sub-tittle{
+font-weight: 400;
+font-size: 16px;
+color:  #757575; 
+}
+.container{
+    background-color:  #2F303A;;
+}
+.ubication{
+margin-left: 215px;
+font-weight: 400;
+font-size: 14px;
+color: #FFFFFF;
+}
+.ref-contact{
+font-weight: 400;
+font-size: 14px;
+color: #757575;
+margin-left: 215px; 
+}
+.btn{
+    background-color: #2196F3;
+    color: #FFFFFF;
+}
+.tittle-one{
+    font-weight: 900;
+    font-size: 44px;
+    color: #FFFFFF;
+}
+.tittles{
+font-weight: 700;
+font-size: 14px;
+color: #212121;
+}
+.sub-tittles{
+font-weight: 400;
+font-size: 14px;
+color: #757575;
+}
+.tittle-two{
+text-align: center;
+font-weight: 700;
+font-size: 36px;
+color: #212121;
+}
+.developers{
+color:#212121;
+font-weight: 500;
+font-size: 16px;
+}
+.text-dev{
+font-weight: 400;
+font-size: 16px;
+color: #757575;
+}
